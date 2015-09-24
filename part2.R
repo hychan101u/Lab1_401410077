@@ -1,6 +1,6 @@
 x <- 1:100
 y <- x*x
-print(y)
+print(sum(y))
 ?inspect
 ?seq
 ?mean
