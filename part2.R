@@ -1,7 +1,7 @@
 x <- 1:100
 y <- x*x
 print(sum(y))
-?inspect
+?InsectSprays
 ?seq
 ?mean
 ?stats
